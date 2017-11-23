@@ -1,6 +1,6 @@
 # juce_midi_ble_example
 
-This is a minimal example for MIDI over Bluetooth LE.
+This is a example of MIDI over Bluetooth LE that implemented as minimum changes.
 
 This project is created be "Audio Application" template from Projucer.
 
