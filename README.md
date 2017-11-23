@@ -6,3 +6,7 @@ This project is created with "Audio Application" template from Projucer.
 
 ![img](https://github.com/COx2/juce_midi_ble_example/blob/master/MidiBleExample/screenshot/IMG_0183.PNG)
 
+# require 
+
+This project is depends on JUCE.
+https://github.com/WeAreROLI/JUCE
